@@ -1,0 +1,23 @@
+
+> fsevents@1.2.11 install /Users/aadya/Desktop/React/protek-priceline-master/node_modules/jest-haste-map/node_modules/fsevents
+> node-gyp rebuild
+
+
+> fsevents@1.2.11 install /Users/aadya/Desktop/React/protek-priceline-master/node_modules/watchpack/node_modules/fsevents
+> node-gyp rebuild
+
+
+> fsevents@1.2.11 install /Users/aadya/Desktop/React/protek-priceline-master/node_modules/webpack-dev-server/node_modules/fsevents
+> node-gyp rebuild
+
++ react-dom@16.13.0
++ react@16.13.0
++ react-dates@21.8.0
++ moment@2.24.0
+added 23 packages from 22 contributors, updated 3 packages and audited 919501 packages in 22.445s
+
+54 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+

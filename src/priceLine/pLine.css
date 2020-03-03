@@ -1,0 +1,70 @@
+.pLine-price{
+    color:#1479f6 !important;
+    font-weight: bold;
+    /*font-size: 40px;*/
+}
+
+.container{
+    max-width: 100% !important;
+}
+.adj-left{
+    text-align: left;
+    margin-top: 16px;
+    margin-bottom:16px;
+    background-color: #368eb6;
+}
+
+.adj-b{
+    background-color: #368eb6;
+    color: white;
+}
+.adj-color2{
+    color: #1479f6 !important;
+}
+.adj-left-top{
+    border-right: 1px solid white !important;
+}
+.adj-col{
+    padding: 0 !important;
+}
+nav.bg-white{
+
+    background-color: whitesmoke !important;
+}
+
+.adj-img{
+    background-image: url("https://www.priceline.com/home/public/assets/images/photos/pcln-hp-hero-mountain-lounge.jpg");
+    height:500px;
+    background-position: center;
+
+}
+.adj-icon{
+    height: 100%;
+    line-height: 56px;
+    color: blue;
+}
+
+.adj-icon-col{
+    padding-right:0 !important;
+}
+.adj-icon-col-left{
+    padding-left:0 !important;
+}
+.adj-color2 > a{
+    padding-left: 0 !important;
+}
+.adj-color2 > div > a{
+    padding-left: 0 !important;
+}
+.adj-icon-col-left > a{
+    padding-left: 0 !important;
+}
+.adj-icon-col-left > a >div >a{
+    padding-left: 6px !important;
+}
+.adj-icon-col-left_ml{
+    padding-left: 21px !important;
+}
+.adj-icon-col-left_ml > div{
+padding-right:3px;
+}
